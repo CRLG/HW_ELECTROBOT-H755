@@ -12,6 +12,4 @@
   (lib (name "CRLG-Sensors")(type "KiCad")(uri "${KIPRJMOD}/ext/KICAD_LIB/symbols/CRLG-Sensors.kicad_sym")(options "")(descr ""))
   (lib (name "CRLG_Transistors")(type "KiCad")(uri "${KIPRJMOD}/ext/KICAD_LIB/symbols/CRLG_Transistors.kicad_sym")(options "")(descr ""))
   (lib (name "CRLG-USB-Interfaces")(type "KiCad")(uri "${KIPRJMOD}/ext/KICAD_LIB/symbols/CRLG-USB-Interfaces.kicad_sym")(options "")(descr ""))
-  (lib (name "MCU_ST_STM32H7")(type "KiCad")(uri "${KIPRJMOD}/ext/KICAD_LIB/symbols/MCU_ST_STM32H7.kicad_sym")(options "")(descr ""))
-  (lib (name "NUCLEO-FxxxZx")(type "Legacy")(uri "${KIPRJMOD}/ext/KICAD_LIB/symbols/NUCLEO-FxxxZx.lib")(options "")(descr ""))
 )
