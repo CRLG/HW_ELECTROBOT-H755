@@ -8754,6 +8754,41 @@
 		)
 		(uuid "67ca6b09-172f-4c9d-a55f-e7e6b92bd331")
 	)
+	(text "Farnell: 4225702"
+		(exclude_from_sim no)
+		(at 117.602 40.132 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 255 123 22 1)
+			)
+		)
+		(uuid "6d75b68c-35dc-4e35-a55f-b9fac2a9d12e")
+	)
+	(text "RS:906-8487"
+		(exclude_from_sim no)
+		(at 70.866 14.986 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 255 123 22 1)
+			)
+			(justify left)
+		)
+		(uuid "77346cd9-7a33-4ef6-a8a3-21fab2e8e7f3")
+	)
+	(text "RS:906-8480\nFarnell:2848985"
+		(exclude_from_sim no)
+		(at 44.958 37.084 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 255 123 22 1)
+			)
+			(justify left)
+		)
+		(uuid "81da9b0d-760e-4d12-877e-dcabe4fe1da5")
+	)
 	(text "LED debug"
 		(exclude_from_sim no)
 		(at 12.7 165.608 0)
