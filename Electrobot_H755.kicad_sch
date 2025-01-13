@@ -10400,7 +10400,7 @@
 		)
 		(uuid "aa2610bc-58ce-4a11-9d7b-1f048f469d56")
 	)
-	(label "Eana3f"
+	(label "Eana5f"
 		(at 120.65 88.9 0)
 		(fields_autoplaced yes)
 		(effects
@@ -10895,7 +10895,7 @@
 		)
 		(uuid "f140f0b3-2ccc-46f2-842c-54f000747e77")
 	)
-	(label "Eana5f"
+	(label "Eana3f"
 		(at 74.93 116.84 0)
 		(fields_autoplaced yes)
 		(effects
