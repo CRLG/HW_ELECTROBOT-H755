@@ -33614,7 +33614,7 @@
 		(descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-04A example for new part number: 22-27-2041, 4 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex KK-254 vertical")
 		(property "Reference" "J6"
-			(at 3.81 4.465 90)
+			(at 6.9114 4.3994 90)
 			(layer "B.SilkS")
 			(uuid "e7583a9f-24e9-454c-8c76-eff834a6dfad")
 			(effects
@@ -41176,6 +41176,16 @@
 		(uuid "26ae7477-7c72-4385-bdee-0ab74799681b")
 	)
 	(gr_line
+		(start 124.8156 48.7172)
+		(end 140.1064 48.7172)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "B.SilkS")
+		(uuid "2addf837-97fd-4699-a6b8-6305e02845cc")
+	)
+	(gr_line
 		(start 88.4428 75.184)
 		(end 88.4428 94.3864)
 		(stroke
@@ -41391,7 +41401,7 @@
 		)
 	)
 	(gr_text "-"
-		(at 116.586 87.122 90)
+		(at 116.586 86.9188 90)
 		(layer "B.SilkS")
 		(uuid "0da64421-b79c-41a8-b5b7-3a5cd4bf5170")
 		(effects
@@ -41563,6 +41573,19 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "Connecteurs"
+		(at 97.3836 143.4592 0)
+		(layer "B.SilkS")
+		(uuid "3dcb9633-840e-43e7-b435-04c6c4ad475b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "7"
 		(at 127.5588 40.9956 0)
 		(layer "B.SilkS")
@@ -41625,10 +41648,35 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "LED RGB"
+		(at 101.1936 96.2152 90)
+		(layer "B.SilkS")
+		(uuid "434529e1-fcf1-47a6-bef3-52b35eeb0d0c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+				(italic yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "K"
 		(at 116.078 150.368 0)
 		(layer "B.SilkS")
 		(uuid "462c8e4a-531d-44f8-b043-5fa8a12827eb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "<-"
+		(at 91.4908 107.3912 180)
+		(layer "B.SilkS")
+		(uuid "479abb0d-11ec-4d7e-85f0-0eb4823b7e68")
 		(effects
 			(font
 				(size 1 1)
@@ -41683,6 +41731,19 @@
 			(font
 				(size 1 1)
 				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Vservo1"
+		(at 141.8336 51.9176 90)
+		(layer "B.SilkS")
+		(uuid "5c6fe0de-2a5f-4d2f-8b9e-59f202573b46")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+				(italic yes)
 			)
 			(justify left bottom mirror)
 		)
@@ -41897,9 +41958,21 @@
 		)
 	)
 	(gr_text "+"
-		(at 114.1984 87.1728 90)
+		(at 114.1984 86.9696 90)
 		(layer "B.SilkS")
 		(uuid "8551369f-350a-4b3e-ab7d-b8a20242a255")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "<-"
+		(at 139.446 104.394 -90)
+		(layer "B.SilkS")
+		(uuid "861eae46-d755-4684-870a-2ecd1a8a78a4")
 		(effects
 			(font
 				(size 1 1)
@@ -42142,8 +42215,21 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "Vservo2"
+		(at 141.986 42.164 90)
+		(layer "B.SilkS")
+		(uuid "afc2607c-e2f7-4860-b964-90dc826e432c")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+				(italic yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "A"
-		(at 124.0536 69.6976 0)
+		(at 124.0536 78.0288 0)
 		(layer "B.SilkS")
 		(uuid "b03487c5-9e93-4caa-bf7a-8f71e535f415")
 		(effects
@@ -42205,7 +42291,7 @@
 		)
 	)
 	(gr_text "+"
-		(at 113.8936 104.0384 90)
+		(at 113.8936 104.14 90)
 		(layer "B.SilkS")
 		(uuid "b4aeb5d8-4d28-468e-b33e-4ac0a0264527")
 		(effects
@@ -42303,7 +42389,7 @@
 		)
 	)
 	(gr_text "+"
-		(at 116.5352 68.4784 90)
+		(at 116.5352 76.6572 90)
 		(layer "B.SilkS")
 		(uuid "c4adbd87-6663-49a6-b413-d1f3d6c6d563")
 		(effects
@@ -42352,6 +42438,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "->"
+		(at 91.5416 109.8296 180)
+		(layer "B.SilkS")
+		(uuid "cbefceb0-a1a4-45bf-9486-518afc7b6b28")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "TX"
 		(at 102.616 108.5088 0)
 		(layer "B.SilkS")
@@ -42368,6 +42466,18 @@
 		(at 145.542 93.472 90)
 		(layer "B.SilkS")
 		(uuid "d32958b2-eff3-4a51-be90-316dd3268db0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "->"
+		(at 136.906 104.394 -90)
+		(layer "B.SilkS")
+		(uuid "d3397517-86c6-43d9-816d-eaee73debb87")
 		(effects
 			(font
 				(size 1 1)
@@ -42453,6 +42563,18 @@
 		(at 92.456 60.8076 90)
 		(layer "B.SilkS")
 		(uuid "da2691e5-796e-43fd-9e1a-4718bb84faea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Codeurs: J7, J8, J9, J10\nMoteurs: J2, J3, J4, J5\nServos: J18, J19, J20, J21, J23, J24, J25\nEtor: J27, J28, J29, J30\nEana: J15, J16, J17, J26\nRS232: J6, J22\n"
+		(at 97.536 153.3652 0)
+		(layer "B.SilkS")
+		(uuid "dd8697ed-a4e7-41d8-adec-9d06054c04e9")
 		(effects
 			(font
 				(size 1 1)
@@ -42562,6 +42684,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "R"
+		(at 82.1944 87.5284 0)
+		(layer "B.SilkS")
+		(uuid "ed89b9b9-6b08-4cc1-aed5-a24849efeefb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "ELECTROBOT_H755 V1\n(2025)"
 		(at 70.0024 58.8264 90)
 		(layer "B.SilkS")
@@ -42639,7 +42773,7 @@
 		)
 	)
 	(gr_text "B"
-		(at 121.4628 69.6976 0)
+		(at 121.4628 78.0288 0)
 		(layer "B.SilkS")
 		(uuid "feef56e3-9b3b-4ad8-b387-ea2d3b22fbec")
 		(effects
@@ -42651,7 +42785,7 @@
 		)
 	)
 	(gr_text "-"
-		(at 118.872 68.58 90)
+		(at 118.872 76.7588 90)
 		(layer "B.SilkS")
 		(uuid "ff1c7aab-0b4e-485c-9fe4-fb4ca4718cc3")
 		(effects
@@ -42686,6 +42820,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "-"
+		(at 83.4136 38.9128 180)
+		(layer "F.SilkS")
+		(uuid "9e0ccd83-b389-4b22-a294-7acd83dc66a6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "USB\nSTLINK"
 		(at 122.0724 39.878 0)
 		(layer "F.SilkS")
@@ -42696,6 +42842,18 @@
 				(thickness 0.1)
 			)
 			(justify bottom)
+		)
+	)
+	(gr_text "+"
+		(at 88.392 38.9636 180)
+		(layer "F.SilkS")
+		(uuid "c206af86-b56b-4406-8552-27d31b486b76")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(dimension
