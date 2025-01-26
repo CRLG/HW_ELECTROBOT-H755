@@ -37166,7 +37166,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R28"
-			(at -3.9624 0.0508 0)
+			(at 1.524 2.8448 90)
 			(layer "B.SilkS")
 			(uuid "15d8d05a-4361-46ea-a60a-b697dd2a7708")
 			(effects
@@ -41548,6 +41548,30 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "E"
+		(at 72.4916 104.14 0)
+		(layer "B.SilkS")
+		(uuid "2bb37359-0de6-490f-87df-6dd0c482579e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "E"
+		(at 142.5448 81.5848 0)
+		(layer "B.SilkS")
+		(uuid "338e3d07-f11c-4c21-926f-64a7654c67bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "Etor"
 		(at 82.1436 112.4712 90)
 		(layer "B.SilkS")
@@ -41748,6 +41772,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "E"
+		(at 140.2588 81.5848 0)
+		(layer "B.SilkS")
+		(uuid "5dbff67a-9675-4acb-91a4-8e19d4bd4f9d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "P"
 		(at 88.9508 127.1524 0)
 		(layer "B.SilkS")
@@ -41831,6 +41867,18 @@
 				(size 1 1)
 				(thickness 0.1)
 				(italic yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+"
+		(at 71.2724 97.9424 180)
+		(layer "B.SilkS")
+		(uuid "6eb5554b-492c-41cf-9728-6c018f0bcb0f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 			(justify left bottom mirror)
 		)
@@ -42045,6 +42093,18 @@
 		(at 118.9228 105.5116 0)
 		(layer "B.SilkS")
 		(uuid "945ba00d-d540-445f-809e-9d070f4faa71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "E"
+		(at 123.444 143.4084 0)
+		(layer "B.SilkS")
+		(uuid "95c022c2-d23b-4037-8072-ecb2b114c590")
 		(effects
 			(font
 				(size 1 1)
@@ -42376,6 +42436,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "-"
+		(at 71.3232 100.2792 180)
+		(layer "B.SilkS")
+		(uuid "c41c09c9-a139-4a27-8b7f-cb63aa5a4677")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "K"
 		(at 122.8852 150.4188 0)
 		(layer "B.SilkS")
@@ -42478,6 +42550,18 @@
 		(at 136.906 104.394 -90)
 		(layer "B.SilkS")
 		(uuid "d3397517-86c6-43d9-816d-eaee73debb87")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+"
+		(at 71.1708 110.0328 180)
+		(layer "B.SilkS")
+		(uuid "d4704f11-61ad-4be3-8175-8bffb9b0b8f5")
 		(effects
 			(font
 				(size 1 1)
@@ -42684,6 +42768,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "E"
+		(at 72.39 116.2304 0)
+		(layer "B.SilkS")
+		(uuid "ecb80592-2704-47f4-bcc1-5091e415a359")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "R"
 		(at 82.1944 87.5284 0)
 		(layer "B.SilkS")
@@ -42707,6 +42803,18 @@
 				(bold yes)
 			)
 			(justify bottom mirror)
+		)
+	)
+	(gr_text "-"
+		(at 71.2216 112.3696 180)
+		(layer "B.SilkS")
+		(uuid "efd961e5-ba5e-4c73-8115-4f7f887afd92")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "Codeur4"

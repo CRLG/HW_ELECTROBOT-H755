@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,8.0.7-8.0.7-0~ubuntu22.04.1*%
-%TF.CreationDate,2025-01-26T09:17:27+01:00*%
+%TF.CreationDate,2025-01-26T09:37:25+01:00*%
 %TF.ProjectId,Electrobot_H755,456c6563-7472-46f6-926f-745f48373535,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.7-8.0.7-0~ubuntu22.04.1) date 2025-01-26 09:17:27*
+G04 Created by KiCad (PCBNEW 8.0.7-8.0.7-0~ubuntu22.04.1) date 2025-01-26 09:37:25*
 %MOMM*%
 %LPD*%
 G01*
@@ -830,11 +830,11 @@ D19*
 X92365000Y-135354000D03*
 X92365000Y-137894000D03*
 %TD*%
-D12*
-%TO.C,J1*%
-X89042500Y-42164000D03*
 D31*
+%TO.C,J1*%
 X84042500Y-42164000D03*
+D12*
+X89042500Y-42164000D03*
 %TD*%
 D28*
 %TO.C,R28*%
