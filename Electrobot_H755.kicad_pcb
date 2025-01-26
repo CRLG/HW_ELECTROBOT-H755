@@ -41365,6 +41365,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "A"
+		(at 126.8984 150.368 0)
+		(layer "B.SilkS")
+		(uuid "067365b3-8eaa-49ed-9ef5-126a64e132db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "+3.3V"
 		(at 140.4112 160.5788 0)
 		(layer "B.SilkS")
@@ -41402,6 +41414,30 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "A"
+		(at 113.0808 150.3172 0)
+		(layer "B.SilkS")
+		(uuid "0eb4c085-f51f-48c5-a95e-23670cc69734")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+"
+		(at 132.2832 62.0268 90)
+		(layer "B.SilkS")
+		(uuid "0f2dace9-c7fd-40d1-a16d-055749c3d8c5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "1"
 		(at 127.5588 60.8584 0)
 		(layer "B.SilkS")
@@ -41411,6 +41447,18 @@
 				(size 1 1)
 				(thickness 0.1)
 				(italic yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "A"
+		(at 119.9896 150.368 0)
+		(layer "B.SilkS")
+		(uuid "1f0ba802-d6be-4f44-a91c-91720198d02c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 			(justify left bottom mirror)
 		)
@@ -41527,6 +41575,30 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "-"
+		(at 95.9612 60.9092 90)
+		(layer "B.SilkS")
+		(uuid "41c4d47c-57db-454d-ba74-2834abda6761")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "-"
+		(at 116.1796 44.6532 180)
+		(layer "B.SilkS")
+		(uuid "41d82bb6-baf9-4fd7-82ba-ac789c0192bd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "+5V"
 		(at 136.398 156.4132 0)
 		(layer "B.SilkS")
@@ -41536,6 +41608,18 @@
 				(size 1 1)
 				(thickness 0.1)
 				(italic yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "K"
+		(at 116.078 150.368 0)
+		(layer "B.SilkS")
+		(uuid "462c8e4a-531d-44f8-b043-5fa8a12827eb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 			(justify left bottom mirror)
 		)
@@ -41726,6 +41810,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "-"
+		(at 134.9248 62.1792 90)
+		(layer "B.SilkS")
+		(uuid "7f8a8586-e4b0-4371-b4ec-f33b5b98136c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "+"
 		(at 114.1984 87.1728 90)
 		(layer "B.SilkS")
@@ -41775,6 +41871,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "+"
+		(at 117.1448 40.9448 90)
+		(layer "B.SilkS")
+		(uuid "9b41e7cf-d601-4c2c-a572-2783be0a8157")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "-"
 		(at 95.5548 84.4804 90)
 		(layer "B.SilkS")
@@ -41817,6 +41925,31 @@
 		(at 102.87 111.0996 0)
 		(layer "B.SilkS")
 		(uuid "a7ec7bb6-a4b4-48d0-8d4b-d6f6ee0e3781")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "PWM"
+		(at 129.6924 62.23 90)
+		(layer "B.SilkS")
+		(uuid "ab2b7412-851d-49fd-9fb0-fa25bc1bf758")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+				(italic yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "K"
+		(at 129.8448 150.4188 0)
+		(layer "B.SilkS")
+		(uuid "ab434751-e491-464a-9597-4a9748c9d4d4")
 		(effects
 			(font
 				(size 1 1)
@@ -41900,6 +42033,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "+"
+		(at 104.2924 62.4332 90)
+		(layer "B.SilkS")
+		(uuid "b4295f67-eb2f-4fca-ad15-260f8b062dc9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "Codeur2"
 		(at 111.2012 88.5444 90)
 		(layer "B.SilkS")
@@ -41917,6 +42062,30 @@
 		(at 113.8936 104.0384 90)
 		(layer "B.SilkS")
 		(uuid "b4aeb5d8-4d28-468e-b33e-4ac0a0264527")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "-"
+		(at 107.8992 62.3824 90)
+		(layer "B.SilkS")
+		(uuid "b61cbac2-0c14-4f39-85c8-6ab1d7c9186d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "K"
+		(at 108.9152 150.4696 0)
+		(layer "B.SilkS")
+		(uuid "b6717596-d2d3-42d5-aa3c-0a3d79fc1f7a")
 		(effects
 			(font
 				(size 1 1)
@@ -41958,6 +42127,18 @@
 				(size 1 1)
 				(thickness 0.1)
 				(italic yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "K"
+		(at 122.8852 150.4188 0)
+		(layer "B.SilkS")
+		(uuid "c47bca02-2e9a-4f76-9013-0ad16b6cd3aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 			(justify left bottom mirror)
 		)
@@ -42061,6 +42242,18 @@
 		)
 	)
 	(gr_text "-"
+		(at 116.1288 55.9308 180)
+		(layer "B.SilkS")
+		(uuid "d74843d5-b815-436e-be89-ac3a536f924a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "-"
 		(at 145.034 80.518 90)
 		(layer "B.SilkS")
 		(uuid "d75d0770-fc8c-4a56-91a6-46b5dfe0bfc6")
@@ -42089,6 +42282,18 @@
 		(at 103.1748 83.1596 90)
 		(layer "B.SilkS")
 		(uuid "d9fc4f26-4a4a-4f97-9baa-101b3dc8e3e1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+"
+		(at 92.456 60.8076 90)
+		(layer "B.SilkS")
+		(uuid "da2691e5-796e-43fd-9e1a-4718bb84faea")
 		(effects
 			(font
 				(size 1 1)
@@ -42148,6 +42353,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "A"
+		(at 106.0704 150.4696 0)
+		(layer "B.SilkS")
+		(uuid "e383265d-b0b3-401f-ad18-c0263b511916")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "Moteur3"
 		(at 118.2624 109.4232 90)
 		(layer "B.SilkS")
@@ -42196,6 +42413,18 @@
 				(size 1 1)
 				(thickness 0.1)
 				(italic yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+"
+		(at 117.1956 52.1208 90)
+		(layer "B.SilkS")
+		(uuid "f71fd3fe-7292-4292-84f6-3c72a4c3bb99")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 			(justify left bottom mirror)
 		)
