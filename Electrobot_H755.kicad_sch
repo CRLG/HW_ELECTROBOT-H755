@@ -8680,6 +8680,17 @@
 		)
 		(uuid "6d75b68c-35dc-4e35-a55f-b9fac2a9d12e")
 	)
+	(text "Support 2.54 sécable femelle à souder\nRS: 766-6666 / 488-1724 / 827-7659"
+		(exclude_from_sim no)
+		(at 104.902 193.548 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "744256ab-346f-477f-a524-abddd0f58d4e")
+	)
 	(text "RS:906-8487"
 		(exclude_from_sim no)
 		(at 70.866 14.986 0)
