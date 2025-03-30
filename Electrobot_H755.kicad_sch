@@ -8432,7 +8432,7 @@
 	)
 	(rectangle
 		(start 12.7 113.03)
-		(end 59.69 138.43)
+		(end 59.69 143.51)
 		(stroke
 			(width 0)
 			(type dash)
@@ -8559,17 +8559,6 @@
 		)
 		(uuid "13479a38-0469-4ec7-8862-cb80dc1eaf70")
 	)
-	(text "5V->3.3V"
-		(exclude_from_sim no)
-		(at 185.42 121.666 0)
-		(effects
-			(font
-				(size 0.889 0.889)
-				(italic yes)
-			)
-		)
-		(uuid "245fa5d0-a800-4ba1-8667-270e337695ac")
-	)
 	(text "Vbat=16V=>Vbatf=3.26V"
 		(exclude_from_sim no)
 		(at 168.91 43.688 0)
@@ -8645,14 +8634,27 @@
 		)
 		(uuid "597268fc-e549-4e23-b820-99d0c618586a")
 	)
-	(text "5V->3.3V"
+	(text "Pour réduction 5V->3.3V (R34=10k / R35=18k)\nSans réduction du niveau (R34=0 / R35 non montée)\n\n"
 		(exclude_from_sim no)
-		(at 53.34 126.746 0)
+		(at 152.654 131.064 0)
 		(effects
 			(font
 				(size 0.889 0.889)
 				(italic yes)
 			)
+			(justify left)
+		)
+		(uuid "5f9693a5-1f85-4b59-a1f0-3e5a0a32dae3")
+	)
+	(text "Pour réduction 5V->3.3V (R32=10k / R33=18k)\nSans réduction du niveau (R32=0 / R33 non montée)\n\n"
+		(exclude_from_sim no)
+		(at 14.224 142.24 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(italic yes)
+			)
+			(justify left)
 		)
 		(uuid "623e9f3a-7c97-41a2-9f61-8566374a7428")
 	)
@@ -8666,14 +8668,15 @@
 		)
 		(uuid "67ca6b09-172f-4c9d-a55f-e7e6b92bd331")
 	)
-	(text "Farnell: 4225702"
+	(text "RS: 146-342\nFarnell: 4225702\nMouser: 511-NUCLEO-H755ZI-Q\nDigikey: 497-NUCLEO-H755ZI-Q-ND"
 		(exclude_from_sim no)
-		(at 117.602 40.132 0)
+		(at 107.95 38.608 0)
 		(effects
 			(font
 				(size 1.016 1.016)
 				(color 255 123 22 1)
 			)
+			(justify left)
 		)
 		(uuid "6d75b68c-35dc-4e35-a55f-b9fac2a9d12e")
 	)
@@ -8754,6 +8757,18 @@
 			(justify left bottom)
 		)
 		(uuid "bebe6fad-8862-4c7d-ac80-c0a5ee2f5f87")
+	)
+	(text "Pour réduction 5V->3.3V (R<1>=10k / R<2>=18k)\nSans réduction du niveau (R<1>=0 / R<2> non montée)\n\n"
+		(exclude_from_sim no)
+		(at 212.344 35.56 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(italic yes)
+			)
+			(justify left)
+		)
+		(uuid "c72ee0bf-2369-4320-80be-8afcc2d6020f")
 	)
 	(text "Bandeau LED RGB"
 		(exclude_from_sim no)
@@ -11957,8 +11972,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "18k"
-			(at 50.038 128.016 0)
+		(property "Value" "NC"
+			(at 48.768 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15148,7 +15163,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0"
 			(at 174.752 113.792 90)
 			(effects
 				(font
@@ -18685,7 +18700,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0"
 			(at 42.672 118.872 90)
 			(effects
 				(font
@@ -21945,8 +21960,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "18k"
-			(at 182.118 122.936 0)
+		(property "Value" "NC"
+			(at 180.848 122.936 0)
 			(effects
 				(font
 					(size 1.27 1.27)
