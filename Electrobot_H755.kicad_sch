@@ -8526,6 +8526,17 @@
 		)
 		(uuid d787137d-a9af-41dc-be96-4d5c331cd467)
 	)
+	(text "Entrée [0;3.3V]"
+		(exclude_from_sim no)
+		(at 227.33 21.082 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+			)
+		)
+		(uuid "0a8ddf3b-3295-4bea-aad3-3783accfb5ce")
+	)
 	(text "Sorties servo"
 		(exclude_from_sim no)
 		(at 147.32 65.786 0)
@@ -8559,7 +8570,51 @@
 		)
 		(uuid "13479a38-0469-4ec7-8862-cb80dc1eaf70")
 	)
-	(text "Vbat=16V=>Vbatf=3.26V"
+	(text "Molex KK 2.54mm"
+		(exclude_from_sim no)
+		(at 192.024 94.234 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "15bbacca-45ba-4c5c-8377-d854e5659361")
+	)
+	(text "Molex KK 2.54mm"
+		(exclude_from_sim no)
+		(at 190.5 164.592 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1a9f7903-023b-42bd-9496-5905f08108a0")
+	)
+	(text "Entrées [0;5V]"
+		(exclude_from_sim no)
+		(at 189.738 21.336 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+			)
+		)
+		(uuid "2359932b-50f1-4c8e-9640-0bbd4567921a")
+	)
+	(text "Molex KK 2.54mm"
+		(exclude_from_sim no)
+		(at 124.206 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "25ff361a-130b-4887-9b93-8058c2dcf5d2")
+	)
+	(text "Vbat=16V=>Vbatf=3.31V"
 		(exclude_from_sim no)
 		(at 168.91 43.688 0)
 		(effects
@@ -8591,6 +8646,17 @@
 		)
 		(uuid "33797944-953f-48b0-a010-c1a40e4ce6ed")
 	)
+	(text "Molex KK 2.54mm"
+		(exclude_from_sim no)
+		(at 263.652 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "36117531-dafc-42f2-a1a1-ca208599db39")
+	)
 	(text "Commandes ponts en H"
 		(exclude_from_sim no)
 		(at 12.7 78.105 0)
@@ -8612,6 +8678,17 @@
 		)
 		(uuid "39e5d236-27f7-4619-a03c-1150d0f4aa64")
 	)
+	(text "Entrées [0;5V]"
+		(exclude_from_sim no)
+		(at 250.19 20.574 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+			)
+		)
+		(uuid "3dee0ea2-6232-4a9e-ba76-644f813b4c89")
+	)
 	(text "RS232 XBEE"
 		(exclude_from_sim no)
 		(at 145.415 110.49 0)
@@ -8623,9 +8700,9 @@
 		)
 		(uuid "475cebf4-279e-4c6d-8d87-120baf90e414")
 	)
-	(text "Molex KK 2.54mm.\nRef RS: 483-8483"
+	(text "Molex KK 2.54mm"
 		(exclude_from_sim no)
-		(at 40.894 117.348 0)
+		(at 14.732 116.078 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8646,6 +8723,17 @@
 		)
 		(uuid "5f9693a5-1f85-4b59-a1f0-3e5a0a32dae3")
 	)
+	(text "NC = Non connecté"
+		(exclude_from_sim no)
+		(at 170.942 46.482 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+			)
+		)
+		(uuid "6092cbe9-2992-4628-a4dd-aa620d65237e")
+	)
 	(text "Pour réduction 5V->3.3V (R32=10k / R33=18k)\nSans réduction du niveau (R32=0 / R33 non montée)\n\n"
 		(exclude_from_sim no)
 		(at 14.224 142.24 0)
@@ -8657,6 +8745,17 @@
 			(justify left)
 		)
 		(uuid "623e9f3a-7c97-41a2-9f61-8566374a7428")
+	)
+	(text "Entrée [0;3.3V]"
+		(exclude_from_sim no)
+		(at 209.296 21.336 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+			)
+		)
+		(uuid "63f25cfd-96d1-4dc7-ae61-486214e0e6a8")
 	)
 	(text "Entrées TOR (pulls up CPU)"
 		(exclude_from_sim no)
@@ -8680,16 +8779,16 @@
 		)
 		(uuid "6d75b68c-35dc-4e35-a55f-b9fac2a9d12e")
 	)
-	(text "Support 2.54 sécable femelle à souder\nRS: 766-6666 / 488-1724 / 827-7659"
+	(text "Molex KK 2.54mm"
 		(exclude_from_sim no)
-		(at 104.902 193.548 0)
+		(at 231.648 68.326 0)
 		(effects
 			(font
-				(size 1.016 1.016)
+				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify left bottom)
 		)
-		(uuid "744256ab-346f-477f-a524-abddd0f58d4e")
+		(uuid "712d2bae-8270-42fa-9ece-844f975067b3")
 	)
 	(text "RS:906-8487"
 		(exclude_from_sim no)
@@ -8736,6 +8835,17 @@
 		)
 		(uuid "9b9057bb-5aba-4a6a-807c-8453e7fde3a7")
 	)
+	(text "Molex KK 2.54mm"
+		(exclude_from_sim no)
+		(at 151.892 178.308 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a727e37a-af55-482e-a4ce-067a60af16d3")
+	)
 	(text "RS232 servos AX"
 		(exclude_from_sim no)
 		(at 14.605 113.03 0)
@@ -8757,6 +8867,17 @@
 			(justify left bottom)
 		)
 		(uuid "b72ab746-1a70-4ea6-a2a2-e3bc333437de")
+	)
+	(text "Molex KK 2.54mm"
+		(exclude_from_sim no)
+		(at 208.28 19.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bbcdc117-2e96-4e77-b442-6829b39b22e9")
 	)
 	(text "I2C"
 		(exclude_from_sim no)
@@ -8791,6 +8912,17 @@
 		)
 		(uuid "e3fe5004-58d7-43e3-8d3a-cb08d828ec1f")
 	)
+	(text "Molex KK 2.54mm"
+		(exclude_from_sim no)
+		(at 15.748 82.042 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0503283-d916-4567-bbd7-1f8a4f924031")
+	)
 	(text "Entrées analogiques"
 		(exclude_from_sim no)
 		(at 161.036 16.002 0)
@@ -8811,6 +8943,18 @@
 			)
 		)
 		(uuid "f2e76a23-351e-4b7e-a612-a93a61a1035b")
+	)
+	(text "Support 2.54 sécable femelle à souder\n  RS: 766-6666 / 488-1724 / 827-7659\nConnecteurs MOLEX miniKK 254 mâle à souder :\n  2 voies : RS 483-8461 / 3 voies : RS 483-8477\n  4 voies : RS 483-8483 / 6 voies : RS 483-8506\nBoitier MOLEX miniKK 254 femelle à sertir (pour faisceau) : \n  2 voies : RS 679-5363 / 3 voies : RS 679-5375\n  4 voies : RS 679-5388 / 6 voies : RS 679-5391\nPins pour réaliser les faisceaux : RS 467-598\nLED verte : RS 466-3908"
+		(exclude_from_sim no)
+		(at 13.716 153.67 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 255 123 22 1)
+			)
+			(justify left)
+		)
+		(uuid "f70e525b-4351-41db-87f9-6523d5e70ca2")
 	)
 	(text "Strap jumper"
 		(exclude_from_sim no)
@@ -11364,8 +11508,8 @@
 				)
 			)
 		)
-		(property "Value" "Value"
-			(at 184.785 48.895 0)
+		(property "Value" "NC"
+			(at 183.642 48.768 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12119,7 +12263,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "18k"
 			(at 277.368 51.943 0)
 			(effects
 				(font
@@ -13341,7 +13485,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 175.768 32.893 0)
 			(effects
 				(font
@@ -13484,7 +13628,7 @@
 				)
 			)
 		)
-		(property "Value" "Value"
+		(property "Value" "100nF"
 			(at 205.105 48.895 0)
 			(effects
 				(font
@@ -14541,7 +14685,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "18k"
 			(at 196.088 51.943 0)
 			(effects
 				(font
@@ -14686,8 +14830,8 @@
 				)
 			)
 		)
-		(property "Value" "Value"
-			(at 266.065 48.895 0)
+		(property "Value" "NC"
+			(at 264.16 48.768 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14820,7 +14964,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "NC"
 			(at 236.728 51.943 0)
 			(effects
 				(font
@@ -15531,7 +15675,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 196.088 43.053 0)
 			(effects
 				(font
@@ -16011,7 +16155,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "18k"
 			(at 257.048 51.943 0)
 			(effects
 				(font
@@ -16153,7 +16297,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 257.048 43.053 0)
 			(effects
 				(font
@@ -17096,7 +17240,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47k"
 			(at 236.728 43.053 0)
 			(effects
 				(font
@@ -17305,7 +17449,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "39k"
+		(property "Value" "18k"
 			(at 175.768 24.003 0)
 			(effects
 				(font
@@ -19530,7 +19674,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "NC"
 			(at 216.408 51.943 0)
 			(effects
 				(font
@@ -19663,7 +19807,7 @@
 				)
 			)
 		)
-		(property "Value" "Value"
+		(property "Value" "100nF"
 			(at 225.425 48.895 0)
 			(effects
 				(font
@@ -20140,7 +20284,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47k"
 			(at 216.408 43.053 0)
 			(effects
 				(font
@@ -20405,8 +20549,8 @@
 				)
 			)
 		)
-		(property "Value" "Value"
-			(at 164.465 29.845 0)
+		(property "Value" "NC"
+			(at 163.068 29.718 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20874,8 +21018,8 @@
 				)
 			)
 		)
-		(property "Value" "Value"
-			(at 245.745 48.895 0)
+		(property "Value" "NC"
+			(at 244.602 48.768 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21693,7 +21837,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 277.368 43.053 0)
 			(effects
 				(font
